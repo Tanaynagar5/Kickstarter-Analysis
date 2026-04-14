@@ -1,4 +1,5 @@
 # 🚀 Kickstarter Crowdfunding Analysis
+End-to-end analytics project analyzing Kickstarter crowdfunding campaign trends, success rates, funding performance, and project outcomes using Excel, SQL, Power BI, and Tableau.
 
 ## 🔍 Objective
 To analyze crowdfunding project performance and identify factors influencing project success using Kickstarter data.
@@ -30,10 +31,10 @@ To analyze crowdfunding project performance and identify factors influencing pro
 ---
 
 ## 💡 Key Insights
-- Identified top-performing project categories  
-- Analyzed funding success by goal range  
-- Evaluated geographic trends in project outcomes  
-- Compared project performance over time  
+- Technology and design categories showed higher success rates
+- Mid-range funding goals had stronger campaign completion performance
+- US contributed the highest number of successful crowdfunding campaigns
+- Campaign success rates declined significantly for higher funding targets 
 
 ---
 
@@ -59,16 +60,15 @@ To analyze crowdfunding project performance and identify factors influencing pro
 
 ---
 
-## 📁 Full Files Access
+## 📁 Full Project Files Access
 
-- Full Dataset: [Download Dataset](https://drive.google.com/drive/folders/1ZYR4w8Xx1qec2oq3ySyasjS-MnpcluBv?usp=sharing)
-- Full Excel Dashboard File: [Download Excel File](https://docs.google.com/spreadsheets/d/1qU7UZ6bsWHy14FZl-8IsC367AiDQWcr8/edit?usp=sharing&ouid=112372979450682509947&rtpof=true&sd=true)
-
----
-
-## 📁 Project Files
-- Dataset  
-- SQL Queries  
-- Excel Dashboard  
-- Power BI Dashboard  
+All project files including:
+- Dataset
+- SQL Queries
+- Excel Dashboard
+- Power BI File
 - Tableau Dashboard
+
+Available here:
+
+🔗 [Download Full Project Files](https://drive.google.com/drive/folders/1HOcDKpo99D4sRwhuXirWduy8TpsacRAF?usp=sharing)
